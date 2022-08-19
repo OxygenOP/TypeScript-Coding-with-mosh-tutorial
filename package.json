@@ -1,0 +1,19 @@
+{
+  "name": "typescript-coding-with-mosh-tutorial",
+  "version": "1.0.0",
+  "description": "This repository is for my progress with typescript with mosh",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./dist/types.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OxygenOP/TypeScript-Coding-with-mosh-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OxygenOP/TypeScript-Coding-with-mosh-tutorial/issues"
+  },
+  "homepage": "https://github.com/OxygenOP/TypeScript-Coding-with-mosh-tutorial#readme"
+}
